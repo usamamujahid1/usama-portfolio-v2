@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Gallery placeholder 4">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a101d"/><stop offset="1" stop-color="#0f1830"/>
+    </linearGradient>
+    <pattern id="grid4" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" fill="none" stroke="rgba(104,148,230,0.12)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#g4)"/>
+  <rect width="800" height="600" fill="url(#grid4)"/>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="rgba(124,231,255,0.35)" stroke-dasharray="6 6"/>
+  <g font-family="'IBM Plex Mono', monospace" text-anchor="middle">
+    <text x="400" y="286" fill="#7ce7ff" font-size="22" letter-spacing="4">GALLERY IMAGE 04</text>
+    <text x="400" y="322" fill="#8fa0c2" font-size="14" letter-spacing="2">REPLACE gallery-04.svg WITH YOUR PHOTO (JPG, 4:3)</text>
+  </g>
+</svg>
